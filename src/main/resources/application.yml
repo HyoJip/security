@@ -1,0 +1,10 @@
+spring:
+  application:
+    name:security
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+  datasource:
+    username: sa
+    password:
